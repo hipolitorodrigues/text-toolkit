@@ -2,6 +2,8 @@
 
 **Text Toolkit** é uma aplicação desktop simples e intuitiva, desenvolvida em Python com Tkinter, para manipulação de textos de maneira rápida e eficiente. Este projeto tem como objetivo principal converter textos para diferentes formatos de capitalização, sendo útil para escritores, programadores e estudantes.
 
+![alt text](https://github.com/hipolitorodrigues/text-toolkit/blob/9894f127fd6e586bf979e6ec06b45ac1d2423d6f/assets/images/sampling.png)
+
 ## Descrição
 
 O **Text Toolkit** oferece uma interface minimalista e moderna, com botões para realizar conversões de texto diretamente na aplicação. Ainda há funcionalidades planejadas para futuras atualizações, como contadores de palavras e caracteres, e um corretor ortográfico.
