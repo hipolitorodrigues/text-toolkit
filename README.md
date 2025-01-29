@@ -51,7 +51,7 @@ Você pode baixar o Python em: [https://www.python.org/](https://www.python.org/
 
 4. A aplicação será aberta em uma janela gráfica.
 
-5. Uma versão .exe (Portátil) encontra-se em dist/TextToolkit-v3.3.exe
+- Uma versão .exe (Portátil) encontra-se em dist/TextToolkit-v3.3.exe
 
 ## Estrutura do Projeto
 
@@ -96,4 +96,3 @@ Isto É Um Exemplo. Outro Exemplo.
 ## Licença
 
 Este projeto está sob a licença [CC0 1.0 Universal (Domínio Público)](https://creativecommons.org/publicdomain/zero/1.0/). Isso significa que você pode copiar, modificar, distribuir e executar o trabalho, mesmo para fins comerciais, tudo sem pedir permissão.
-```
