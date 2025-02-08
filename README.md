@@ -86,7 +86,6 @@ Isto É Um Exemplo. Outro Exemplo.
 ## Autor
 
 - **Desenvolvedor**: Hipolito Rodrigues
-- **Email**: [hipolitorodrigues@gmail.com](mailto:hipolitorodrigues@gmail.com)
 - **Data de Criação**: 09/11/2024
 - **Última Atualização**: 16/01/2025
 - **Versão Atual**: 3.3  
